@@ -14,7 +14,7 @@ export default {
 </script>
 
 <style >
-    h1{
-        color:red
+    h1 {
+        color:salmon;
     }
 </style>
